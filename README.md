@@ -46,7 +46,7 @@ Sou apaixonada por aprender, criar e encontrar padrões. Com base na minha exper
 
 ## 📫 Entre em contato
 
-- ✉️ Email: 101gomesjoana@gamil.com  
+- ✉️ Email: 101gomesjoana@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/101gomesjoana/ 
 
 ---
