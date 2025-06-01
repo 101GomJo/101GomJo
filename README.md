@@ -8,9 +8,9 @@ Sou uma profissional em transição de carreira, com 15 anos de experiência com
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Python** (intermediário)
-- **SQL / Banco de Dados** (intermediário)
-- **Microsoft Excel** (intermediário)
+- **Python** 
+- **SQL / Banco de Dados** 
+- **Microsoft Excel** 
 - **Git e GitHub**
 - **Inglês avançado** 🇺🇸
 
