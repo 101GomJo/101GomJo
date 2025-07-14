@@ -1,15 +1,18 @@
-# Olá!🙌🏼 Seja bem-vindxs ao meu perfil no GitHub!
+# Olá!🙌🏼 Seja bem-vindxs a **101 GomJo**, uma empresa MEI de prestação de serviços aplicados a dados!
 
-Sou uma profissional em transição de carreira, com 15 anos de experiência como pesquisadora e professora de música, atualmente me especializando em **Ciência de Dados** e iniciando minha jornada na área de **Tecnologia da Informação**.
+🎯 Serviços:
 
-🎯 Meu objetivo é aplicar habilidades analíticas e de programação em projetos que envolvam dados, desenvolvimento de soluções e aprendizado contínuo.
+**digitação**, 
+**progamação** 
+**edição e limpeza de dados**
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 - **Python** 
-- **SQL / Banco de Dados** 
+- **SQL / Banco de Dados**
+- **ETL**
 - **Microsoft Excel** 
 - **Git e GitHub**
 - **Inglês avançado** 🇺🇸
