@@ -4,7 +4,7 @@
 
 **digitação**, 
 **progamação** 
-**edição e limpeza de dados**
+**modelagem de dados**
 
 ---
 
@@ -13,6 +13,7 @@
 - **Python** 
 - **SQL / Banco de Dados**
 - **ETL**
+- **Power BI**
 - **Microsoft Excel** 
 - **Git e GitHub**
 - **Inglês avançado** 🇺🇸
@@ -41,13 +42,14 @@
 
 ## 💬 Sobre mim
 
-> "A música é minha essência: a tecnologia, minha paixão!."
+> **"A música é minha essência: a tecnologia, minha paixão!"**
 
-Sou apaixonada por aprender, criar e encontrar padrões. Com base na minha experiência em ensino e pesquisa na área da música, trago comigo a capacidade de **comunicação clara**, **organização** e **empatia**, agora aliadas ao pensamento analítico da ciência de dados.
+Sou apaixonada por aprender, criar e encontrar padrões.
+Com base na minha experiência em ensino e pesquisa na área da música, trago comigo a capacidade de **comunicação clara**, **organização** e **empatia**, agora aliadas ao pensamento analítico da ciência de dados.
 
 ---
 
-## 📫 Entre em contato
+## 📫 Entre em contato:
 
 - ✉️ Email: 101gomesjoana@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/101gomesjoana/ 
