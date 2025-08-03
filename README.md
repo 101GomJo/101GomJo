@@ -2,8 +2,8 @@
 
 🎯 Serviços:
 
-**digitação**, 
-**progamação** 
+**digitação**  
+**progamação**   
 **modelagem de dados**
 
 ---
